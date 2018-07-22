@@ -1,0 +1,7 @@
+{
+  "name": "aemenu",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
