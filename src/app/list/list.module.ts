@@ -20,4 +20,4 @@ import { ListPage } from "./list.page";
   ],
   declarations: [ListPage]
 })
-export class ListModule {}
+export class ListPageModule { }
